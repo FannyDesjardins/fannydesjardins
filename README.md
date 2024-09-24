@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on making games
-- 🌱 I’m currently learning Unreal Engine 5
+- 🔭 Video Game Development Master's student
+- 🌱 I’m currently learning Unreal Engine, IA, advanced C++, graphics programming & physics programming.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fannydesjardins/) or smoke signals
 - ⚡ Fun fact: I have 2 black belts and I have lived in 5 different countries
 - Check out my [portfolio website](https://fannydesjardins.github.io/)! 
